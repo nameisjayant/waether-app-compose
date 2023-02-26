@@ -22,9 +22,6 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavHostController
 import com.nameisjayant.weatherapp.data.Weather
-import com.nameisjayant.weatherapp.data.local.City
-import com.nameisjayant.weatherapp.ui.theme.Background
-import com.nameisjayant.weatherapp.ui.theme.GradientColor
 import com.nameisjayant.weatherapp.ui.theme.GradientTwo
 
 
