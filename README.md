@@ -7,5 +7,5 @@ A simple weather app in jetpack compose
 <img src = "screenshot/one.png" height="400"/>
 &nbsp;
 &nbsp;
-<img src = "screenshot/one.png" height="400"/>
+<img src = "screenshot/two.png" height="400"/>
 </p>
